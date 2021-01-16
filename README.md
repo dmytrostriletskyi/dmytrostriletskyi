@@ -1,7 +1,7 @@
 ### Latest Blog Publication
 
-[Delete stale feature branches in a Kubernetes cluster](https://itnext.io/delete-stale-feature-branches-in-a-kubernetes-cluster-23c76da27180)
+[My experience in a self-management team](https://dmytrostriletskyi.medium.com/my-experience-in-a-self-management-team-29653ee7ada00)
 
-<img src="https://habrastorage.org/webt/ob/t3/_5/obt3_5ykjrostdbbqasqvlca1uq.png" width="360" height="120" />
+<img src="https://miro.medium.com/max/1000/1*zolJgSFXbR6cJFy7UklDqw.png" width="350" height="200" />
 
 More blogs' publications on [Medium](https://medium.com/@dmytrostriletskyi) and [Habr](https://habr.com/ru/users/dmytrostriletskyi/posts/).
