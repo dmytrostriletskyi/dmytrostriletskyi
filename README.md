@@ -1,7 +1,9 @@
-### Latest Blog Publication
+**Latest blog publication in English:**
 
-[My experience in a self-management team](https://dmytrostriletskyi.medium.com/my-experience-in-a-self-management-team-29653ee7ada0)
+* [11 must-haves in your vacancy for software engineers](https://dmytrostriletskyi.medium.com/11-must-haves-in-your-vacancy-for-software-engineers-b9396ef24f49)
+* [My experience in a self-management team](https://dmytrostriletskyi.medium.com/my-experience-in-a-self-management-team-29653ee7ada0)
 
-<img src="https://miro.medium.com/max/1000/1*zolJgSFXbR6cJFy7UklDqw.png" width="350" height="200" />
+**Latest blog publication in Russian:**
 
-More blogs' publications on [Medium](https://medium.com/@dmytrostriletskyi) and [Habr](https://habr.com/ru/users/dmytrostriletskyi/posts/).
+* [Идеальная вакансия для разработчика](https://habr.com/ru/post/540068)
+* [Мой опыт в самоорганизующейся команде](https://habr.com/ru/post/537380)
