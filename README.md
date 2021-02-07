@@ -1,3 +1,6 @@
+I am a T-shaped, responsible, and collaborative Software Engineer and Team Lead. I am experienced in development and operations in startups and product companies. 
+I value technical cultures and consciously approaching work.
+
 **Latest blog publications in English:**
 
 * [11 must-haves in your vacancy for software engineers](https://dmytrostriletskyi.medium.com/11-must-haves-in-your-vacancy-for-software-engineers-b9396ef24f49)
