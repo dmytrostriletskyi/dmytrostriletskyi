@@ -1,5 +1,5 @@
 I am a T-shaped, responsible, and collaborative Software Engineer and Team Lead. I am experienced in development and operations in startups and product companies. 
-I value technical cultures and consciously approaching work.
+I value technical cultures and conscious approaching work.
 
 **Latest blog publications in English:**
 
