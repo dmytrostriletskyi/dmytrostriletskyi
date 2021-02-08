@@ -1,5 +1,6 @@
-I am a T-shaped, responsible, and collaborative Software Engineer and Team Lead. I am experienced in development
-and operations in startups and product companies.
+I am a T-shaped, responsible, and collaborative Software Engineer and Team Lead.
+
+I am experienced in development and operations in startups and product companies.
 
 **Latest blog publications in English:**
 
