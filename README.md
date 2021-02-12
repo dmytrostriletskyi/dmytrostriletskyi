@@ -1,12 +1,16 @@
-I am a T-shaped, responsible, and collaborative Software Engineer and Team Lead.
-I am experienced in development and operations in startups and product companies.
+Hi, there! 👋
 
-**Latest blog publications in English:**
+My name is Dmytro, I am in my mid-twenties, living in Kyiv, Ukraine. I completed Bachelor degree in Software Engineering.
+I am a T-shaped Software Engineer and Tech Lead experienced in development and operations in startups and product companies.
+I do open source projects that solve my personal and other engineers' problems. I also have Medium and Habr accounts where
+you can find articles in English and Russian about my projects and Information Technology in general.
+
+**The latest articles in English:**
 
 * [11 must-haves in your vacancy for software engineers](https://dmytrostriletskyi.medium.com/11-must-haves-in-your-vacancy-for-software-engineers-b9396ef24f49)
 * [My experience in a self-management team](https://dmytrostriletskyi.medium.com/my-experience-in-a-self-management-team-29653ee7ada0)
 
-**Latest blog publications in Russian:**
+**The latest articles in Russian:**
 
 * [Идеальная вакансия для разработчика](https://habr.com/ru/post/540068)
 * [Мой опыт в самоорганизующейся команде](https://habr.com/ru/post/537380)
