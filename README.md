@@ -2,6 +2,7 @@ Hi, there! 👋
 
 My name is Dmytro, I am in my mid-twenties, living in Kyiv, Ukraine. I completed Bachelor degree in Software Engineering.
 I am a T-shaped Software Engineer and Tech Lead experienced in development and operations in startups and product companies.
+
 I do open source projects that solve my personal and other engineers' problems. I also have Medium and Habr accounts where
 you can find articles in English and Russian about my projects and Information Technology in general.
 
