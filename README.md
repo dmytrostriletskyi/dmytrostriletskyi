@@ -6,6 +6,8 @@ I am a T-shaped Software Engineer and Tech Lead experienced in development and o
 I do open source projects that solve my personal and other engineers' problems. I also have Medium and Habr accounts where
 you can find articles in English and Russian about my projects and my thoughts about software engineering.
 
+I love when software engineers are passion about their work, when they build engineering cultures and when they have engineering values.
+
 **The latest articles in English:**
 
 * [11 must-haves in your vacancy for software engineers](https://dmytrostriletskyi.medium.com/11-must-haves-in-your-vacancy-for-software-engineers-b9396ef24f49)
