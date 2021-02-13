@@ -1,12 +1,13 @@
 Hi, there! 👋
 
-My name is Dmytro, I am in my mid-twenties, living in Kyiv, Ukraine. I completed Bachelor degree in Software Engineering.
+My name is Dmytro, I am in my mid-twenties, living in Kyiv, Ukraine. I completed Bachelor's degree in Software Engineering.
 I am a T-shaped Software Engineer and Tech Lead experienced in development and operations in startups and product companies.
 
-I do open source projects that solve my personal and other engineers' problems. I also have Medium and Habr accounts where
-you can find articles in English and Russian about my projects and my thoughts about software engineering.
+Not only that, but I do open source projects that solve my personal and other engineers' problems. Furthermore, I also have
+Medium and Habr accounts where you can find articles in English and Russian about my projects and my thoughts about software
+engineering.
 
-I love when software engineers are passion about their work, when they build engineering cultures and when they have engineering values.
+I love when software engineers are passionate about their work and when they build engineering cultures with their own values.
 
 **The latest articles in English:**
 
