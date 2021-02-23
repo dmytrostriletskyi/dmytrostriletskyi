@@ -4,8 +4,9 @@ My name is Dmytro, I am in my mid-twenties, living in Kyiv, Ukraine. I completed
 I am a T-shaped Software Engineer and Tech Lead experienced in development and operations in startups and product companies.
 
 Not only that, but I do open source projects that solve my personal and other engineers' problems. Furthermore, I also have
-Medium and Habr accounts where you can find articles in English and Russian about my projects and my thoughts about software
-engineering.
+[Medium](https://dmytrostriletskyi.medium.com), [Habr](https://habr.com/ru/users/dmytrostriletskyi/posts) and 
+[DOU](https://dou.ua/users/dmytro-striletskyi/articles) accounts where you can find articles about my projects and my thoughts
+about software engineering in English, Russian, and Ukranian respectively.
 
 I love when software engineers are passionate about their work and when they build engineering cultures with their own values.
 
@@ -16,8 +17,13 @@ I love when software engineers are passionate about their work and when they bui
 
 **The latest articles in Russian:**
 
+* [Идеальное резюме для разработчика](https://habr.com/ru/post/542372)
 * [Идеальная вакансия для разработчика](https://habr.com/ru/post/540068)
 * [Мой опыт в самоорганизующейся команде](https://habr.com/ru/post/537380)
+
+**The latest articles in Ukrainian:**
+
+* [Як оформити резюме, щоб конкурувати з найкращими кандидатами](https://dou.ua/lenta/columns/perfect-resume-for-developer)
 
 **Connect with me:**
 
