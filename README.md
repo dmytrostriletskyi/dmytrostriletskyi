@@ -4,9 +4,10 @@ My name is Dmytro, I am in my mid-twenties, living in Kyiv, Ukraine. I completed
 I am a T-shaped Software Engineer and Tech Lead experienced in development and operations in startups and product companies.
 
 Not only that, but I do open source projects that solve my personal and other engineers' problems. Furthermore, I also have
-[Medium](https://dmytrostriletskyi.medium.com), [Habr](https://habr.com/ru/users/dmytrostriletskyi/posts) and 
+[Medium](https://dmytrostriletskyi.medium.com), [Habr](https://habr.com/ru/users/dmytrostriletskyi/posts), and 
 [DOU](https://dou.ua/users/dmytro-striletskyi/articles) accounts where you can find articles about my projects and my thoughts
-about software engineering in English, Russian, and Ukranian respectively.
+about software engineering in English, Russian, and Ukrainian respectively. Besides this, I have a
+[personal blog in Telegram](https://t.me/dmytrostriletskyi).
 
 I love when software engineers are passionate about their work and when they build engineering cultures with their own values.
 
@@ -38,38 +39,11 @@ I love when software engineers are passionate about their work and when they bui
   </a>
   &nbsp;
   <a
-   href="https://dmytrostriletskyi.medium.com/"
-  >
-    <img
-      height="30"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"
-    >
-  </a>
-  &nbsp;
-  <a
-   href="https://habr.com/ru/users/dmytrostriletskyi/posts/"
-  >
-    <img
-      height="30"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/habr.svg"
-    >
-  </a>
-  &nbsp;
-  <a
    href="https://www.facebook.com/dmytrostriletskyi/"
   >
     <img
       height="30"
       src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"
-    >
-  </a>
-  &nbsp;
-  <a
-   href="https://telegram.me/dmytrostriletskyi"
-  >
-    <img
-      height="30"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"
     >
   </a>
   &nbsp;
