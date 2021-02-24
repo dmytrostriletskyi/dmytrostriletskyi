@@ -5,9 +5,8 @@ I am a T-shaped Software Engineer and Tech Lead experienced in development and o
 
 Not only that, but I do open source projects that solve my personal and other engineers' problems. Furthermore, I also have
 [Medium](https://dmytrostriletskyi.medium.com), [Habr](https://habr.com/ru/users/dmytrostriletskyi/posts), and 
-[DOU](https://dou.ua/users/dmytro-striletskyi/articles) accounts where you can find articles about my projects and my thoughts
-about software engineering in English, Russian, and Ukrainian respectively. Besides this, I have a
-[personal blog in Telegram](https://t.me/dmytrostriletskyi).
+[DOU](https://dou.ua/users/dmytro-striletskyi/articles) accounts where I post articles about software engineering in English,
+Russian, and Ukrainian respectively. Besides, I have a [personal blog in Telegram](https://t.me/dmytrostriletskyi).
 
 I love when software engineers are passionate about their work and when they build engineering cultures with their own values.
 
