@@ -8,8 +8,6 @@ Not only that, but I do open source projects that solve my personal and other en
 [DOU](https://dou.ua/users/dmytrostriletskyi/articles) accounts where I post articles about software engineering in English,
 Russian, and Ukrainian respectively. Besides, I have a [personal blog in Telegram](https://t.me/dmytrostriletskyi).
 
-I love when software engineers are passionate about their work and when they build engineering cultures with their own values.
-
 **The latest articles in English:**
 
 * [11 must-haves in your vacancy for software engineers](https://dmytrostriletskyi.medium.com/11-must-haves-in-your-vacancy-for-software-engineers-b9396ef24f49)
