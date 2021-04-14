@@ -23,6 +23,10 @@ Russian, and Ukrainian respectively. Besides, I have a [personal blog in Telegra
 
 * [Як оформити резюме, щоб конкурувати з найкращими кандидатами](https://dou.ua/lenta/columns/perfect-resume-for-developer)
 
+**The latest speech in Russian:**
+
+[![Почему ваша вакансия не работает](http://img.youtube.com/vi/OaS6vOAh6Vs/0.jpg)](http://www.youtube.com/watch?v=OaS6vOAh6Vs "Почему ваша вакансия не работает")
+
 **Connect with me:**
 
 <p align='left'>
