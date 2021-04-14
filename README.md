@@ -8,20 +8,11 @@ Not only that, but I do open source projects that solve my personal and other en
 [DOU](https://dou.ua/users/dmytrostriletskyi/articles) accounts where I post articles about software engineering in English,
 Russian, and Ukrainian respectively. Besides, I have a [personal blog in Telegram](https://t.me/dmytrostriletskyi).
 
-**The latest articles in English:**
+**The latest articles:**
 
-* [11 must-haves in your vacancy for software engineers](https://dmytrostriletskyi.medium.com/11-must-haves-in-your-vacancy-for-software-engineers-b9396ef24f49)
-* [My experience in a self-management team](https://dmytrostriletskyi.medium.com/my-experience-in-a-self-management-team-29653ee7ada0)
-
-**The latest articles in Russian:**
-
-* [Идеальное резюме для разработчика](https://habr.com/ru/post/542372)
-* [Идеальная вакансия для разработчика](https://habr.com/ru/post/540068)
-* [Мой опыт в самоорганизующейся команде](https://habr.com/ru/post/537380)
-
-**The latest articles in Ukrainian:**
-
-* [Як оформити резюме, щоб конкурувати з найкращими кандидатами](https://dou.ua/lenta/columns/perfect-resume-for-developer)
+* [11 must-haves in your vacancy for software engineers](https://dmytrostriletskyi.medium.com/11-must-haves-in-your-vacancy-for-software-engineers-b9396ef24f49) (English)
+* [Идеальное резюме для разработчика](https://habr.com/ru/post/542372) (Russian)
+* [Як оформити резюме, щоб конкурувати з найкращими кандидатами](https://dou.ua/lenta/columns/perfect-resume-for-developer) (Ukranian)
 
 **The latest speech in Russian:**
 
