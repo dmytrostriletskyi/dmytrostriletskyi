@@ -14,9 +14,9 @@ Russian, and Ukrainian respectively. Besides, I have a [personal blog in Telegra
 * [Идеальное резюме для разработчика](https://habr.com/ru/post/542372) (Russian)
 * [Як оформити резюме, щоб конкурувати з найкращими кандидатами](https://dou.ua/lenta/columns/perfect-resume-for-developer) (Ukranian)
 
-**The latest speech:**
+**The latest speeches:**
 
-[<img src="https://yt-embed.herokuapp.com/embed?v=OaS6vOAh6Vs" width="34%">](http://www.youtube.com/watch?v=OaS6vOAh6Vs)
+[<img src="https://yt-embed.herokuapp.com/embed?v=OaS6vOAh6Vs" width="38%">](http://www.youtube.com/watch?v=OaS6vOAh6Vs)
 
 **Connect with me:**
 
