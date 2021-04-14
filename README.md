@@ -25,7 +25,7 @@ Russian, and Ukrainian respectively. Besides, I have a [personal blog in Telegra
 
 **The latest speech in Russian:**
 
-[![Почему ваша вакансия не работает](http://img.youtube.com/vi/OaS6vOAh6Vs/0.jpg)](http://www.youtube.com/watch?v=OaS6vOAh6Vs "Почему ваша вакансия не работает")
+[<img src="https://yt-embed.herokuapp.com/embed?v=OaS6vOAh6Vs" width="34%">](http://www.youtube.com/watch?v=OaS6vOAh6Vs)
 
 **Connect with me:**
 
