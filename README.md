@@ -17,7 +17,7 @@ Russian, and Ukrainian respectively. Besides, I have a [personal blog in Telegra
 
 **The latest speeches:**
 
-[<img src="https://yt-embed.herokuapp.com/embed?v=OaS6vOAh6Vs" width="38%">](http://www.youtube.com/watch?v=OaS6vOAh6Vs)
+<a href="http://www.youtube.com/watch?v=OaS6vOAh6Vs"><img src="latest_speech_video_screenshoot.png" align="left" width="50%"></a>
 
 **Connect with me:**
 
