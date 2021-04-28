@@ -6,7 +6,7 @@ I am a T-shaped Software Engineer and Tech Lead experienced in development and o
 Not only that, but I do open source projects that solve my personal and other engineers' problems. Furthermore, I have
 [Medium](https://dmytrostriletskyi.medium.com), [Habr](https://habr.com/ru/users/dmytrostriletskyi/posts), and 
 [DOU](https://dou.ua/users/dmytrostriletskyi/articles) accounts where I post articles about software engineering in English,
-Russian, and Ukrainian respectively. Besides, I have a [personal blog in Telegram](https://t.me/dmytrostriletskyi) and
+Russian, and Ukrainian respectively. Besides, I have a [personal blog in Telegram](https://t.me/dmytrostriletskyi) and a 
 [YouTube channel](https://www.youtube.com/channel/UCcVosFK5p425MTnWef095NQ).
 
 **The latest articles:**
@@ -15,6 +15,6 @@ Russian, and Ukrainian respectively. Besides, I have a [personal blog in Telegra
 * [Идеальное резюме для разработчика](https://habr.com/ru/post/542372) (Russian)
 * [Як оформити резюме, щоб конкурувати з найкращими кандидатами](https://dou.ua/lenta/columns/perfect-resume-for-developer) (Ukranian)
 
-**The latest speeches:**
+**The latest speech:**
 
 <a href="http://www.youtube.com/watch?v=OaS6vOAh6Vs"><img src="latest_speech_video_screenshoot.png" align="left" width="50%"></a>
