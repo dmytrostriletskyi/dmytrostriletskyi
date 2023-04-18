@@ -6,7 +6,7 @@ I am a [T-shaped](https://en.wikipedia.org/wiki/T-shaped_skills) Software Engine
 I am good at influencing engineering-wide best practices within teams and across others for the full software development life cycle, including documentation, design, coding standards, code reviews, building, testing, deployment, and other operations as well as leading teams of 3-5 software engineers, coaching and mentoring less experienced developers and peers.
 
 Not only that, but I do open source projects that solve my personal and other engineers' problems. Furthermore, I have
-[Medium](https://dmytrostriletskyi.medium.com), [Habr](https://habr.com/ru/users/dmytrostriletskyi/posts), and 
+[Medium](https://dmytrostriletskyi.medium.com), [Habr](https://habr.com/ru/users/dmytrostriletskyi/posts) (not under maintenance), and 
 [DOU](https://dou.ua/users/dmytrostriletskyi/articles) accounts where I post articles about software engineering in English,
 Russian, and Ukrainian respectively. Besides, I have a [personal blog in Telegram](https://t.me/dmytrostriletskyi) and a 
 [YouTube channel](https://www.youtube.com/channel/UCcVosFK5p425MTnWef095NQ).
