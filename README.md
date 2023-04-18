@@ -1,7 +1,9 @@
 Hi, there! 👋
 
 My name is Dmytro, I am in my mid-twenties, living in Kyiv, Ukraine. I completed Bachelor's degree in Software Engineering.
-I am a T-shaped Software Engineer and Tech Lead experienced in development and operations in startups and product companies.
+I am a [T-shaped](https://en.wikipedia.org/wiki/T-shaped_skills) Software Engineer and Tech Lead experienced in development and operations in startups and product companies.
+
+I am good at influencing engineering-wide best practices within teams and across others for the full software development life cycle, including documentation, design, coding standards, code reviews, building, testing, deployment, and other operations as well as leading teams of 3-5 software engineers, coaching and mentoring less experienced developers and peers.
 
 Not only that, but I do open source projects that solve my personal and other engineers' problems. Furthermore, I have
 [Medium](https://dmytrostriletskyi.medium.com), [Habr](https://habr.com/ru/users/dmytrostriletskyi/posts), and 
