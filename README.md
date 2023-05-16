@@ -11,7 +11,7 @@ developers and peers.
 
 I have the following outside-of-work achievements:
 
-* On open source enthusiast being top `5.5K` worldwide by 
+* An open source enthusiast being top `5.5K` worldwide by 
   [GitHub accounts ranking](http://159.100.250.9/users/search?login=dmytrostriletskyi). 
 * A recurring speaker on the largest Ukrainian IT community's 
   [podcast about DevOps](https://www.youtube.com/playlist?list=PLwj_3ikgO3CLZM1Jm_n5gw2CcoKMaKgD5) 
