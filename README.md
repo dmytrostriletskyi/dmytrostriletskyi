@@ -1,13 +1,12 @@
 Hi there! 👋
 
-My name is Dmytro, I am in my late-twenties, living in Kyiv, Ukraine. I completed Bachelor's degree in Software 
+My name is Dmytro, I am in my late twenties, living in Kyiv, Ukraine. I completed Bachelor's degree in Software 
 Engineering. I am a [T-shaped](https://en.wikipedia.org/wiki/T-shaped_skills) Software Engineer and Tech Lead
 with `6+` years of experience in development and operations in startups and product companies.
 
-I am good at influencing engineering-wide best practices within teams and across others for the full software 
-development life cycle, including documentation, design, coding standards, code reviews, building, testing, deployment, 
-and other operations as well as leading teams of 3-5 software engineers, coaching and mentoring less experienced 
-developers and peers.
+I am good at leading and influencing engineering-wide best practices within teams and across others for the full software 
+development life cycle, including documentation, design, coding standards, code reviews, building, testing, and deployment 
+as well as leading teams of 3-5 software engineers, coaching and mentoring less experienced developers and peers.
 
 I have the following outside-of-work achievements:
 
@@ -16,7 +15,7 @@ I have the following outside-of-work achievements:
 * A recurring speaker on the largest Ukrainian IT community's 
   [podcast about DevOps](https://www.youtube.com/playlist?list=PLwj_3ikgO3CLZM1Jm_n5gw2CcoKMaKgD5) 
   with `65K+` subscribers on `YouTube`. 
-* An author of `15+` articles about software engineering on `3` different languages that have `325K+` views in total on 
+* An author of `15+` articles about software engineering in `3` different languages that have `325K+` views in total on 
   [Medium](https://dmytrostriletskyi.medium.com), [DOU](https://dou.ua/users/dmytrostriletskyi/articles), and 
   [Habr](https://habr.com/ru/users/dmytrostriletskyi/posts) (not under maintenance).
 
